@@ -6,13 +6,6 @@ package conditionalStatments;
 public class IfElseCondition1 {
     final int MIN_BALANCE = 10;
 
-    public static void main(String[] args) {
-      IfElseCondition1 a1 = new IfElseCondition1();
-        a1.payg(2);
-        a1.payg(20);
-        a1.payg(5);
-    }
-
     public void payg(int myBalance) {
 
         if(myBalance >= MIN_BALANCE) {
@@ -21,6 +14,12 @@ public class IfElseCondition1 {
         else {
             System.out.println("you do not have enough balance, please top up");
         }
+    }
 
+
+    public static void main(String[] args) {
+        IfElseCondition1 ifElseCondition1=new IfElseCondition1();
+        ifElseCondition1.payg(8);
+        ifElseCondition1.payg(15);
     }
 }

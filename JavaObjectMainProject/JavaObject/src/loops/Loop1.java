@@ -8,7 +8,7 @@ public class Loop1 {
     {
 
         Loop1 l1 = new Loop1();
-        l1.sumOf(1,100);
+        l1.sumOf(10,15);
     }
 
 
@@ -19,6 +19,6 @@ public class Loop1 {
 
             result=result+i;
         }
-        System.out.println("Sum of 1 to 100 is: "+ result);
+        System.out.println("Sum of "+start+ " to "+end +" is "+ result);
     }
 }

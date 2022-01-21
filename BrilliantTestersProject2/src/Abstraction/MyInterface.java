@@ -1,13 +1,12 @@
 package Abstraction;
 
-/**
- * Created by User on 04/12/2016.
- */
 public interface MyInterface {
-    //declaration of constant variables
-    double PI = 3.1415;
+  double PI=3.14;//by default public static and final
+    void m1();//by deafault public and abstract method
+    void m2();
+    void m3();
 
-    //declaration of abstract methods
-    void add(int a, int b);
-    void sub(int a, int b);
+    public static void main(String[] args) {
+        System.out.println(PI);
+    }
 }

@@ -2,11 +2,406 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cc070b6-83e7-471c-9dab-9b54d8e4f9e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/6starharrow/6star/out/production/6star.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/loops/my-india/src/IfElseLogical.java" beforeDir="false" afterPath="$PROJECT_DIR$/loops/my-india/src/IfElseLogical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Streams/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/collections/InterviewClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/collections/MapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6star" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6starharrow/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6starharrow/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6starharrow/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/Access Control Modifiers.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/out/production/Access Control Modifiers/Acm1/Default.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/out/production/Access Control Modifiers/Acm1/Default1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/out/production/Access Control Modifiers/Acm1/MyPrivate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/out/production/Access Control Modifiers/Acm1/MyPrivate1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/out/production/Access Control Modifiers/Acm1/MyPublic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/out/production/Access Control Modifiers/Acm1/MyPublic1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/out/production/Access Control Modifiers/Acm1/Procted.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/out/production/Access Control Modifiers/Acm1/Procted1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/out/production/Access Control Modifiers/Acm1/ProctedInheritance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/out/production/Access Control Modifiers/Acm2/Default2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/out/production/Access Control Modifiers/Acm2/MyPrivate2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/out/production/Access Control Modifiers/Acm2/MyPrivate3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/out/production/Access Control Modifiers/Acm2/MyPublic2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/out/production/Access Control Modifiers/Acm2/Procted2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/out/production/Access Control Modifiers/Acm2/Procted3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/src/Acm1/Default.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Acm1/Default.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/src/Acm1/Default1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Acm1/Default1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/src/Acm1/MyPrivate.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Acm1/MyPrivate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/src/Acm1/MyPrivate1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Acm1/MyPrivate1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/src/Acm1/MyPublic.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Acm1/MyPublic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/src/Acm1/MyPublic1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Acm1/MyPublic1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/src/Acm1/Procted.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Acm1/Procted.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/src/Acm1/Procted1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Acm1/Procted1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/src/Acm1/ProctedInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Acm1/ProctedInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/src/Acm2/Default2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Acm2/Default2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/src/Acm2/MyPrivate2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Acm2/MyPrivate2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/src/Acm2/MyPrivate3.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Acm2/MyPrivate3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/src/Acm2/MyPublic2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Acm2/MyPublic2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/src/Acm2/Procted2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Acm2/Procted2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Access Control Modifiers/src/Acm2/Procted3.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Acm2/Procted3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrilliantTestersBatch1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrilliantTestersProject2/BrilliantTestersProject2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/BrilliantTestersProject2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrilliantTestersProject2/src/Abstraction/MyInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Abstraction/MyInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrilliantTestersProject2/src/StringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/StringDemo/StringMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrilliantTestersProject2/src/conditionalStatments/IfElseCondition1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/conditionalStatments/IfElseCondition1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrilliantTestersProject2/src/conditionalStatments/IfElseCondition2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/conditionalStatments/IfElseCondition2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrilliantTestersProject2/src/conditionalStatments/LogicalOperatorsWithIfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/conditionalStatments/LogicalOperatorsWithIfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrilliantTestersProject3/.idea/BrilliantTestersProject3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrilliantTestersProject3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BrilliantTestersProject3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gujarat/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gujarat/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gujarat/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gujarat/Gujarat.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gujarat/out/production/Gujarat/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gujarat/src/HelloWorld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ImpJavaProgCollections/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ImpJavaProgCollections/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ImpJavaProgCollections/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/ImpJavaProg.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ImpJavaProgCollections/ImpJavaProg.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/out/production/ImpJavaProg/jdjava/MultinTbale1To10.class" beforeDir="false" afterPath="$PROJECT_DIR$/ImpJavaProgCollections/out/production/ImpJavaProg/jdjava/MultinTbale1To10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/out/production/ImpJavaProg/srikantsir/ArmstroongNomber.class" beforeDir="false" afterPath="$PROJECT_DIR$/ImpJavaProgCollections/out/production/ImpJavaProg/srikantsir/ArmstroongNomber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/out/production/ImpJavaProg/srikantsir/CompareTwoString.class" beforeDir="false" afterPath="$PROJECT_DIR$/ImpJavaProgCollections/out/production/ImpJavaProg/srikantsir/CompareTwoString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/out/production/ImpJavaProg/srikantsir/Computer.class" beforeDir="false" afterPath="$PROJECT_DIR$/ImpJavaProgCollections/out/production/ImpJavaProg/srikantsir/Computer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/out/production/ImpJavaProg/srikantsir/ExceptionHandling.class" beforeDir="false" afterPath="$PROJECT_DIR$/ImpJavaProgCollections/out/production/ImpJavaProg/srikantsir/ExceptionHandling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/out/production/ImpJavaProg/srikantsir/FahrenheitToCelsius.class" beforeDir="false" afterPath="$PROJECT_DIR$/ImpJavaProgCollections/out/production/ImpJavaProg/srikantsir/FahrenheitToCelsius.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/out/production/ImpJavaProg/srikantsir/FibonacciNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/ImpJavaProgCollections/out/production/ImpJavaProg/srikantsir/FibonacciNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/out/production/ImpJavaProg/srikantsir/GetCurrentDateAndTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/ImpJavaProgCollections/out/production/ImpJavaProg/srikantsir/GetCurrentDateAndTime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/out/production/ImpJavaProg/srikantsir/IntegerForLopp.class" beforeDir="false" afterPath="$PROJECT_DIR$/ImpJavaProgCollections/out/production/ImpJavaProg/srikantsir/IntegerForLopp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/out/production/ImpJavaProg/srikantsir/Laptop.class" beforeDir="false" afterPath="$PROJECT_DIR$/ImpJavaProgCollections/out/production/ImpJavaProg/srikantsir/Laptop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/out/production/ImpJavaProg/srikantsir/MultiplicationTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/ImpJavaProgCollections/out/production/ImpJavaProg/srikantsir/MultiplicationTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/out/production/ImpJavaProg/srikantsir/ProgConstructorOverLoad.class" beforeDir="false" afterPath="$PROJECT_DIR$/ImpJavaProgCollections/out/production/ImpJavaProg/srikantsir/ProgConstructorOverLoad.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/out/production/ImpJavaProg/srikantsir/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/ImpJavaProgCollections/out/production/ImpJavaProg/srikantsir/ReverseString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/src/collections/ArrayListexample.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/collections/ArrayListexample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/src/collections/AutoBoxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/collections/AutoBoxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/src/collections/GenericaArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/collections/GenericaArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/src/collections/HashSetexample.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/collections/HashSetexample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/src/collections/MapExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/src/jdjava/MultinTbale1To10.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ImportantJavaProgram/MultinTbale1To10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/src/srikantsir/ArmstroongNomber.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/srikantsir/ArmstroongNomber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/src/srikantsir/CompareTwoString.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/srikantsir/CompareTwoString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/src/srikantsir/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/srikantsir/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/src/srikantsir/ExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/srikantsir/ExceptionHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/src/srikantsir/FahrenheitToCelsius.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/srikantsir/FahrenheitToCelsius.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/src/srikantsir/FibonacciNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/srikantsir/FibonacciNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/src/srikantsir/GetCurrentDateAndTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/srikantsir/GetCurrentDateAndTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/src/srikantsir/IntegerForLopp.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/srikantsir/IntegerForLopp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/src/srikantsir/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/srikantsir/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/src/srikantsir/ProgConstructorOverLoad.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/srikantsir/ProgConstructorOverLoad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImpJavaProg/src/srikantsir/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/srikantsir/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/Abstraction/Calc1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/Abstraction/Calc2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/Abstraction/MyCalc.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/Abstraction/MyInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/ArrayLists/ListPractice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/collections/ListPractice2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/ArrayLists/ListsPractice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/collections/ListsPractice1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/Arrays/ArrayPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Arrays/ArrayPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/Arrays/ArrayPractice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Arrays/ArrayPractice2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/Arrays/ArrayPractice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Arrays/ArrayPractice3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/Arrays/MDArray2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Arrays/MDArray2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/Arrays/MultiDimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Arrays/MultiDimensionalArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/ExceptionHandling/Exception1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ExceptionHandling/Exception1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/ExceptionHandling/Exception2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ExceptionHandling/Exception2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/ExceptionHandling/Exception3.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ExceptionHandling/Exception3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/ExceptionHandling/Exception4.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ExceptionHandling/Exception4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/ExceptionHandling/ExceptionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ExceptionHandling/ExceptionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/ExceptionHandling/ExceptionFinally.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ExceptionHandling/ExceptionFinally.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/ExceptionHandling/FirstException.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ExceptionHandling/FirstException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/loops/Loop1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/loops/Loop1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/__MACOSX/JavaObject/._out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/__MACOSX/JavaObject/.idea/._copyright" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/__MACOSX/JavaObject/src/._Abstraction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/__MACOSX/JavaObject/src/._ExceptionHandling" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/__MACOSX/JavaObject/src/._javaconcepts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaObjectMainProject/__MACOSX/JavaObject/src/._loops" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyInterface/src/It1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/IntefaceExample/It1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyInterface/src/It2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/IntefaceExample/It2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyInterface/src/It3.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/IntefaceExample/It3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyInterface/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/IntefaceExample/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyInterface/src/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/IntefaceExample/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyInterface/src/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/IntefaceExample/Test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomeWork6/src/Exercise1/DivisonOf5.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ImportantJavaProgram/DivisonOf5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomeWork6/src/Exercise1/EvenNo1To100.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ImportantJavaProgram/EvenNo1To100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomeWork6/src/Exercise1/FactorialNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ImportantJavaProgram/FactorialNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomeWork6/src/Exercise1/FactorialNumber1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ImportantJavaProgram/FactorialNumber1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomeWork6/src/Exercise1/OddNo1To100.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ImportantJavaProgram/OddNo1To100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomeWork6/src/Exercise1/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ImportantJavaProgram/Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomeWork6/src/Exercise1/Pattern1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ImportantJavaProgram/Pattern1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomeWork6/src/Exercise1/PrimeNumber1To100.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ImportantJavaProgram/PrimeNumber1To100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomeWork6/src/Exercise1/SumOf1to50.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ImportantJavaProgram/SumOf1to50.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomeWork6/src/Exercise2/Array1ForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ImportantJavaProgram/Array1ForEach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomeWork6/src/Exercise2/ArrayAverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ImportantJavaProgram/ArrayAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomeWork6/src/Exercise2/ArrayHighest.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ImportantJavaProgram/ArrayHighest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomeWork6/src/Exercise2/ArrayOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ImportantJavaProgram/ArrayOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomeWork6/src/Exercise2/ArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ImportantJavaProgram/ArraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomeWork6/src/Exercise3/ExceptionHandling1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ExceptionHandling/ExceptionHandling1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomeWork6/src/Exercise3/ExceptionHandling2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ExceptionHandling/ExceptionHandling2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomeWork6/src/Exercise3/ExceptionHanlindThrow.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ExceptionHandling/ExceptionHanlindThrow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomeWork6/src/Exercise3/ExceptionHanling3.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ExceptionHandling/ExceptionHanling3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise1/Poly1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise1/Poly2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise1/Poly3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise1/Poly4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise1b/AbstInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Abstraction/AbstInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise1b/MyAbstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Abstraction/MyAbstraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise1b/MyInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise1b/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Abstraction/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise1b/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Abstraction/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise2/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/IntefaceExample/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise2/TestBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/IntefaceExample/TestBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise2/TestBank1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/IntefaceExample/TestBank1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise2/TestBank2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/IntefaceExample/TestBank2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise2/TestBank3.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/IntefaceExample/TestBank3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise3/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise3/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise4MethodOverriding/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Ploymorphism/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise4MethodOverriding/MyBank.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Ploymorphism/MyBank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise5/RdtMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/methodsPractice/RdtMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise5/RdtMethod1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/methodsPractice/RdtMethod1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise6/DefaultConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ConstructorMethod/DefaultConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomework5/src/Exercise6/ParaConstor2.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/ConstructorMethod/ParaConstor2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomewrok4/src/Exercise1/IfElseThreeMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/IfElse/IfElseThreeMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomewrok4/src/Exercise1/IfElseThreeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/IfElse/IfElseThreeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomewrok4/src/Exercise1/IfElseTwoNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/IfElse/IfElseTwoNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomewrok4/src/Exercise2/PassFail.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/IfElse/PassFail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomewrok4/src/Exercise3/GradeRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/IfElse/GradeRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomewrok4/src/Exercise4/StringDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/StringDemo/StringDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomewrok4/src/Exercise5/StaticMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomewrok4/src/Exercise5/StaticMethod1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomewrok4/src/Exercise6/FinalVariableMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/variables/FinalVariableMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomewrok4/src/Exercise7/SwitchChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/SwitchCase/SwitchChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomewrok4/src/Exercise7/SwitchChar1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/SwitchCase/SwitchChar1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomewrok4/src/Exercise7/SwitchInt.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/SwitchCase/SwitchInt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NareshHomewrok4/src/Exercise7/SwitchString.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/SwitchCase/SwitchString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/AddTwoMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/AddTwoMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/CalculatorUsingSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/CalculatorUsingSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/CharactorRhombusStructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/CharactorRhombusStructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/DiamondPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/DiamondPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/DuplicateElemnetsInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/DuplicateElemnetsInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/DuplicateStringInArry.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/DuplicateStringInArry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/EmployeeSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/EmployeeSalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/FindCity.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/FindCity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/FindCommonElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/FindCommonElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/FindIndexOfArrayElemtns.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/FindIndexOfArrayElemtns.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/GridArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/GridArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/HighestNoOfArry.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/HighestNoOfArry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/InsertArrayElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/InsertArrayElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/InterChange.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/InterChange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/LeftAnglePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/LeftAnglePattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/MarkSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/MarkSheet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/MarkSheet1.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/MarkSheet1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/MonthDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/MonthDays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/NaturalNumberSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/NaturalNumberSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/OddNuIF.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/OddNuIF.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/PascalTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/PascalTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/PrimNumver.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/PrimNumver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/RemoveArrayelementArrList.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/RemoveArrayelementArrList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/RemoveDuplicateElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/RemoveDuplicateElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/ReversArrayElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/ReversArrayElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/RhombusStructure.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/RhombusStructure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/RightAng.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/RightAng.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/RightAngle.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/RightAngle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/SalesCommision.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/SalesCommision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/SimpleCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/SortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/SortArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/SumArry.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/SumArry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/ToFindSpecificValueInArry.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/ToFindSpecificValueInArry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/TransposeMetrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/TransposeMetrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/TrianglePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/TrianglePattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/UpperCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/UpperCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanner/src/VowelConsonant.java" beforeDir="false" afterPath="$PROJECT_DIR$/BrilliantTestersProject2/src/Scanner/VowelConsonant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/india1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/india1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/india1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/india1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/india1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/india1/india1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/india1/out/production/india1/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/india1/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/india1/src/myname.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/loops.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/my-india" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/out/production/loops/IfElse1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/out/production/loops/IfElse2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/out/production/loops/IfElse3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/out/production/loops/IfElseLogical.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/loops/out/production/loops/MinOfThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/6star/HarrowP1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/6star/HarrowP2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/6star/HomeW10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/6star/HomeW11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/6star/HomeW3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/6star/HomeW4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/6star/HomeW6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/6star/HomeW7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/6star/HomeW8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/6star/HomeW9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/6star/META-INF/6star.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/Inheritance1/Calc1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/Inheritance1/Calc2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/Inheritance1/Calc3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/Inheritance1/Calc4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/MyJavaPacticePkg/BrilliantTestersBatchClass1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/MyJavaPacticePkg/Calculator1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/MyJavaPacticePkg/Calculator2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/MyJavaPacticePkg/MethodsPractice1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/Static/Calc1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/Static/Calc2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/Static/StaticDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/Static/StaticDemo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/Static/StaticDemo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/StringMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/SwitchCase/DaySelectionTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/SwitchCase/DaySelections.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/SwitchCase/Day_Selection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/conditionalStatments/CompareThreeValues.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/conditionalStatments/IfConditionDemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/conditionalStatments/IfElseCondition1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/conditionalStatments/IfElseCondition2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/conditionalStatments/LogicalOperatorsWithIfElse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersBatch1/conditionalStatments/NestedIfElse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersProject2/RandomDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BrilliantTestersProject2/RandomDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersProject2/conditionalStatments/IfElseCondition1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BrilliantTestersProject2/conditionalStatments/IfElseCondition1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersProject2/conditionalStatments/IfElseCondition2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BrilliantTestersProject2/conditionalStatments/IfElseCondition2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BrilliantTestersProject2/conditionalStatments/LogicalOperatorsWithIfElse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BrilliantTestersProject2/conditionalStatments/LogicalOperatorsWithIfElse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ImpJavaProg/collections/GenericaArrayList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ImpJavaProg/collections/GenericaArrayList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ImpJavaProg/collections/HashSetexample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ImpJavaProg/collections/HashSetexample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ImpJavaProg/collections/MapExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ImpJavaProg/collections/MapExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ImpJavaProg/srikantsir/ExceptionHandling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ImpJavaProg/srikantsir/ExceptionHandling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaObject/ArrayLists/ListPractice2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaObject/ArrayLists/ListPractice2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaObject/ExceptionHandling/Exception3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaObject/ExceptionHandling/Exception3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaObject/ExceptionHandling/ExceptionFinally.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaObject/ExceptionHandling/ExceptionFinally.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaObject/META-INF/JavaObject.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaObject/META-INF/JavaObject.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaObject/loops/Loop1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaObject/loops/Loop1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyInterface/It1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyInterface/It2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyInterface/It3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyInterface/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyInterface/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MyInterface/Test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomeWork6/Exercise1/DivisonOf5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomeWork6/Exercise1/EvenNo1To100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomeWork6/Exercise1/FactorialNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomeWork6/Exercise1/FactorialNumber1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomeWork6/Exercise1/OddNo1To100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomeWork6/Exercise1/Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomeWork6/Exercise1/Pattern1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomeWork6/Exercise1/PrimeNumber1To100.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomeWork6/Exercise1/SumOf1to50.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomeWork6/Exercise2/Array1ForEach.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomeWork6/Exercise2/ArrayAverage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomeWork6/Exercise2/ArrayHighest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomeWork6/Exercise2/ArrayOdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomeWork6/Exercise2/ArraySum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomeWork6/Exercise3/ExceptionHandling1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomeWork6/Exercise3/ExceptionHandling2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomeWork6/Exercise3/ExceptionHanlindThrow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomeWork6/Exercise3/ExceptionHanling3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise1/Poly1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise1/Poly2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise1/Poly3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise1/Poly4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise1b/AbstInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise1b/MyAbstraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise1b/MyInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise1b/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise1b/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise2/Bank$Barclays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise2/Bank$LloydsBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise2/Bank$TescoBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise2/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise2/TestBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise2/TestBank1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise2/TestBank2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise2/TestBank3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise3/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise3/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise4MethodOverriding/Bank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise4MethodOverriding/MyBank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise5/RdtMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise5/RdtMethod1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise6/DefaultConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NareshHomework5/Exercise6/ParaConstor2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/AddTwoMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/CalculatorUsingSwitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/CharactorRhombusStructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/DiamondPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/DuplicateElemnetsInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/DuplicateStringInArry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/EmployeeSalary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/FindCity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/FindCommonElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/FindIndexOfArrayElemtns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/GridArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/HighestNoOfArry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/InsertArrayElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/InterChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/LeapYear.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/LeftAnglePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/MarkSheet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/MarkSheet1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/MonthDays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/NaturalNumberSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/OddNuIF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/Palindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/PascalTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/PrimNumver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/RemoveArrayelementArrList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/RemoveDuplicateElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/ReversArrayElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/RhombusStructure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/RightAng.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/RightAngle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/SalesCommision.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/SimpleCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/SortArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/SumArry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/ToFindSpecificValueInArry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/TransposeMetrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/TrianglePattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/UpperCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Scanner/VowelConsonant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java practice/CallClassOrMethod1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java practice/CallClassOrMethod2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java practice/CallmMwthod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java practice/DefaultConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java practice/IfElse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java practice/IfElseLogical.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java practice/MethodOverloading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java practice/MethosdP1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java practice/MethosdP2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java practice/MethosdP3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java practice/Naresh.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java practice/ParaConstructor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java practice/StrinConcantenation1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java practice/StringConcantenation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java practice/UnaryOperator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java practice/helloworld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-india/IfElse1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-india/IfElse2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-india/IfElse3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-india/IfElseLogical.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/my-india/MinOfThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/septtesting2018/src/BrillinTestSept2018.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/methodsPractice/BrillinTestSept2018.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/septtesting2018/src/MethodPractice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/methodsPractice/MethodPractice1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/septtesting2018/src/MethodPractice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/methodsPractice/MethodPractice2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/septtesting2018/src/Practis1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/methodsPractice/Practis1.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,19 +409,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ImpJavaProg/src/srikantsir/MultiplicationTable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,111 +418,53 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/loops/my-india" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/ImpJavaProg/src/srikantsir/ExceptionHandling.java" />
-        <option value="$PROJECT_DIR$/loops/my-india/src/IfElseLogical.java" />
-        <option value="$PROJECT_DIR$/MyInterface/src/Test.java" />
-        <option value="$PROJECT_DIR$/MyInterface/src/Test2.java" />
-        <option value="$PROJECT_DIR$/ImpJavaProg/src/collections/AutoBoxing.java" />
-        <option value="$PROJECT_DIR$/6star/src/HarrowP1.java" />
-        <option value="$PROJECT_DIR$/BrilliantTestersBatch1/src/conditionalStatments/IfElseCondition2.java" />
-        <option value="$PROJECT_DIR$/BrilliantTestersBatch1/src/StringMethods.java" />
-        <option value="$PROJECT_DIR$/BrilliantTestersProject2/src/Abstraction/Calc2.java" />
-        <option value="$PROJECT_DIR$/BrilliantTestersProject2/src/Ploymorphism/Poly4.java" />
-        <option value="$PROJECT_DIR$/BrilliantTestersProject2/src/MathDemo.java" />
-        <option value="$PROJECT_DIR$/BrilliantTestersProject2/src/RandomDemo1.java" />
-        <option value="$PROJECT_DIR$/ImpJavaProg/src/collections/ArrayListexample.java" />
-        <option value="$PROJECT_DIR$/ImpJavaProg/src/collections/GenericaArrayList.java" />
-        <option value="$PROJECT_DIR$/ImpJavaProg/src/collections/HashSetexample.java" />
-        <option value="$PROJECT_DIR$/ImpJavaProg/src/collections/MapExample.java" />
-        <option value="$PROJECT_DIR$/ImpJavaProg/src/srikantsir/Computer.java" />
-        <option value="$PROJECT_DIR$/ImpJavaProg/src/srikantsir/FibonacciNumber.java" />
-        <option value="$PROJECT_DIR$/ImpJavaProg/src/srikantsir/ProgConstructorOverLoad.java" />
-        <option value="$PROJECT_DIR$/ImpJavaProg/src/srikantsir/ReverseString.java" />
-        <option value="$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/loops/Loop1.java" />
-      </list>
-    </option>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand />
-      <select />
-    </treeState>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
-    <option name="width" value="1940" />
-    <option name="height" value="1100" />
-  </component>
+  <component name="ProjectId" id="1UTn4ITfN0LqDV7PXSBtiq77NQj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="java-progms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ImpJavaProg" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-progms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ImpJavaProg" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-progms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ImpJavaProg" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="jdjava" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-progms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ImpJavaProg" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="srikantsir" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554490402209" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BrilliantTestersProject2/src/IntefaceExample" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BrilliantTestersProject2/src/IntefaceExample" />
+      <recent name="$PROJECT_DIR$/MyInterface/src" />
+      <recent name="$PROJECT_DIR$/BrilliantTestersProject2/src/Ploymorphism" />
+      <recent name="$PROJECT_DIR$/BrilliantTestersProject2/src/methodsPractice" />
+      <recent name="$PROJECT_DIR$/BrilliantTestersProject2/src/ConstructorMethod" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\nares\IdeaProjects\java-progms\6star\.idea" />
       <recent name="C:\Users\nares\IdeaProjects\java-progms\6star\src" />
       <recent name="C:\Users\nares\IdeaProjects\java-progms\6starharrow" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="variables" />
+      <recent name="StringDemo" />
+      <recent name="IfElse" />
+      <recent name="Streams" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.MultiplicationTable">
-    <configuration name="Exception1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.Exception1" />
+  <component name="RunManager" selected="JUnit.test1.regular">
+    <configuration name="Exception2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.Exception2" />
       <module name="JavaObject" />
       <extension name="coverage">
         <pattern>
@@ -152,19 +476,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HighestNoOfArry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HighestNoOfArry" />
-      <module name="Scanner" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Loop1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.Loop1" />
+    <configuration name="Exception3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.Exception3" />
       <module name="JavaObject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.*" />
+          <option name="PATTERN" value="ExceptionHandling.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,12 +489,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="srikantsir.MultiplicationTable" />
+    <configuration name="ExceptionFinally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.ExceptionFinally" />
+      <module name="JavaObject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.MapExample" />
       <module name="ImpJavaProg" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="srikantsir.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,29 +515,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintOddNos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loops.PrintOddNos" />
-      <module name="JavaObject" />
+    <configuration name="test1.regular" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BrilliantTestersProject2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loops.*" />
+          <option name="PATTERN" value="Streams.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Streams" />
+      <option name="MAIN_CLASS_NAME" value="Streams.test1" />
+      <option name="METHOD_NAME" value="regular" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MultiplicationTable" />
-        <item itemvalue="Application.HighestNoOfArry" />
-        <item itemvalue="Application.PrintOddNos" />
-        <item itemvalue="Application.Loop1" />
-        <item itemvalue="Application.Exception1" />
+        <item itemvalue="JUnit.test1.regular" />
+        <item itemvalue="Application.ExceptionFinally" />
+        <item itemvalue="Application.Exception3" />
+        <item itemvalue="Application.Exception2" />
+        <item itemvalue="Application.MapExample" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -221,65 +555,16 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29865772" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven" order="7" weight="0.3295302" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2865772" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven" order="7" weight="0.3295302" />
-    </layout-to-restore>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -294,369 +579,13 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Scanner/src/HighestNoOfArry.java</url>
-          <line>3</line>
-          <properties class="HighestNoOfArry" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/variables/MyForLoop.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/ExceptionHandling/Exception4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-417">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/ExceptionHandling/ExceptionDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/ExceptionHandling/ExceptionFinally.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-179">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/loops/LoopPractice1.java" />
-    <entry file="file://$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/ExceptionHandling/FirstException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-746">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/loops/Loop1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/loops/Loop2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-97">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/loops/PrintOddNos.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-56">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/oops2/DecisionMakingifelseSwitch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/oops2/DoWhileLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaObjectMainProject/JavaObject/src/oops2/EnhancedForEachLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/AddTwoMatrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-410">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/CalculatorUsingSwitch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/CharactorRhombusStructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-482">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/DiamondPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/DuplicateElemnetsInArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/DuplicateStringInArry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-87">
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/EmployeeSalary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/FindCity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/FindCommonElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-228">
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/FindIndexOfArrayElemtns.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/GridArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/HighestNoOfArry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/InsertArrayElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/InterChange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/LeapYear.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/LeftAnglePattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/MarkSheet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/MarkSheet1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/MonthDays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/NaturalNumberSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/OddNuIF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/PascalTriangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-250">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/PrimNumver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-370">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/RemoveArrayelementArrList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-158">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/RemoveDuplicateElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/ReversArrayElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-50">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/RhombusStructure.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/RightAng.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/RightAngle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/SalesCommision.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/SimpleCalculator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/SortArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/SumArry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/ToFindSpecificValueInArry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/TransposeMetrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/UpperCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/VowelConsonant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Scanner/src/TrianglePattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ImpJavaProg/src/srikantsir/MultiplicationTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
   </component>
   <component name="masterDetails">
     <states>
